@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanjali1&label=Profile%20views&color=0e75b6&style=flat" alt="dipanjali1" /> </p>
 
-- 🔭 I’m currently working on *Color theme switcher*
+- 🔭 I’m currently working on <b>*Color theme switcher*</b>
 
-- 🌱 I’m currently learning *React Redux*
+- 🌱 I’m currently learning <b>*React Redux*</b>
 
-- 🤝 I’m looking for help with *Color theme switcher*
+- 🤝 I’m looking for help with <b>*Color theme switcher*</b>
 
-- 💬 Ask me about *Web development*
+- 💬 Ask me about <b>*Web development*</b>
 
-- 📫 How to reach me *dipanjali180302@gmail.com*
+- 📫 How to reach me <b>*dipanjali180302@gmail.com*</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
