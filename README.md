@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://Dipanjali1.io)
 <h1 align="center">Hi 👋, I'm Dipanjali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
