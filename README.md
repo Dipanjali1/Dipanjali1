@@ -1,15 +1,15 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://Dipanjali1.io)
 <h1 align="center">Hi 👋, I'm Dipanjali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanjali1&label=Profile%20views&color=0e75b6&style=flat" alt="dipanjali1" /> </p>
 
-- 🔭 I’m currently working on <b>*Color theme switcher*</b>
+- 🔭 I’m currently working on <b>*Grep*</b>
 
-- 🌱 I’m currently learning <b>*React Redux*</b>
+- 🌱 I’m currently learning <b>*Python*</b>
 
-- 🤝 I’m looking for help with <b>*Color theme switcher*</b>
+- 🤝 I’m looking for help with <b>*AI using python*</b>
 
 - 💬 Ask me about <b>*Web development*</b>
 
